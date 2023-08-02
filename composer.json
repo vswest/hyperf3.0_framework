@@ -1,12 +1,12 @@
 {
-    "name": "vswest/framework",
+    "name": "vswest/hyperf3.0_framework",
     "type": "library",
     "keywords": [
         "php",
         "hyperf",
         "framework"
     ],
-    "description": "framework",
+    "description": "hyperf3.0 framework",
     "autoload": {
         "psr-4": {
             "VsWest\\Framework\\": "src/"
